@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+
+# Rider
+.idea/
+
+# npm
+node_modules/
+
+# Logs
+*.log
+
+# Others
+*.db
+*.sqlite
+
+# Ignore Visual Studio FileContentIndex (sometimes has permission issues)
+.vs/**/FileContentIndex/
